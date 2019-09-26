@@ -1,0 +1,60 @@
+{
+  "id": "b6649eee-9036-428e-a949-e8c57830778b",
+  "name": "control_appliances",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "control.appliance",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d9d0d7d5-3e60-4315-847a-b00ff3d116ee",
+          "required": true,
+          "dataType": "@devices",
+          "name": "devices",
+          "value": "$devices",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which appliance you want to control? Light or fan?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ddd620f9-f6ae-402d-a709-9e215035fd8b",
+          "required": true,
+          "dataType": "@status",
+          "name": "status",
+          "value": "$status",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want me to switch it on or off?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1497089720,
+  "fallbackIntent": false,
+  "events": []
+}

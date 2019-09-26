@@ -1,0 +1,218 @@
+[
+  {
+    "id": "d5f69124-f7fa-46d7-af5f-dd63311e94e2",
+    "data": [
+      {
+        "text": "what to say?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dd34556-c405-493c-aef5-08523b013080",
+    "data": [
+      {
+        "text": "what can i say?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19c749ad-3e9c-4a86-8d97-a6ce76fc951e",
+    "data": [
+      {
+        "text": "what do i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6abded33-88cc-41d1-82d5-380e6b99dc2e",
+    "data": [
+      {
+        "text": "what can i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49960cdd-5393-4e92-86d0-98c07b9c9665",
+    "data": [
+      {
+        "text": "give me some help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea17aec6-ea6b-4298-98d1-dfdb3a746db2",
+    "data": [
+      {
+        "text": "give a hint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24a6a87b-a55d-474b-8e05-5c216cf5a111",
+    "data": [
+      {
+        "text": "how should I answer the question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "404dad08-27a9-41db-a68b-14c3cfa094b0",
+    "data": [
+      {
+        "text": "how do I answer the question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5f20eb3-ec52-45d7-953d-9b50ab2333a4",
+    "data": [
+      {
+        "text": "what to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8d14f6c-2505-4f4d-9227-44611d150716",
+    "data": [
+      {
+        "text": "what do I say?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55fd3df8-59f6-4046-a289-efb6e297c94c",
+    "data": [
+      {
+        "text": "what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f873e15a-cd5a-45e8-ac18-c97e82efd03d",
+    "data": [
+      {
+        "text": "how do i play?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "038b22bf-acc8-4982-922c-75837feb21ca",
+    "data": [
+      {
+        "text": "please help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c95541f3-f59c-4a88-b20c-3eb2560ad241",
+    "data": [
+      {
+        "text": "I need some help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8d81c4b-2fff-4d9a-a001-de000f6ffc42",
+    "data": [
+      {
+        "text": "can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e71dc36a-196e-4d0c-ae48-f36708767431",
+    "data": [
+      {
+        "text": "i don\u0027t understand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad273fd5-51d6-4373-b19f-ddb59aab2a1d",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3694af5-d0ea-40ea-bf73-13c0f1a0b44f",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

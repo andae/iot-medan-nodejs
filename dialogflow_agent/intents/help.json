@@ -1,0 +1,31 @@
+{
+  "id": "3f6103b2-ce3c-4f56-846a-651b50222fb5",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "help",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can help you control your home appliances. What do you want to control? Lights or fans?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1497086173,
+  "fallbackIntent": false,
+  "events": []
+}

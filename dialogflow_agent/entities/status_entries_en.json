@@ -1,0 +1,16 @@
+[
+  {
+    "value": "on",
+    "synonyms": [
+      "on",
+      "bright"
+    ]
+  },
+  {
+    "value": "off",
+    "synonyms": [
+      "off",
+      "dim"
+    ]
+  }
+]

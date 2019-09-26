@@ -1,0 +1,542 @@
+[
+  {
+    "id": "eccdefcf-314a-4be2-a58b-97bc134a3ed2",
+    "data": [
+      {
+        "text": "tell him to switch my ",
+        "userDefined": false
+      },
+      {
+        "text": "fan",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497089001
+  },
+  {
+    "id": "2bd66c57-2d47-44e4-8776-f71b0044ed09",
+    "data": [
+      {
+        "text": "switch my ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497088992
+  },
+  {
+    "id": "beb335be-84e2-401d-91e9-663ca7fda568",
+    "data": [
+      {
+        "text": "control the appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "673c314a-d661-415a-8976-8d3f64cda86e",
+    "data": [
+      {
+        "text": "control my appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "f8607120-49ab-44c6-a9aa-2ca3759dc53e",
+    "data": [
+      {
+        "text": "control the ",
+        "userDefined": false
+      },
+      {
+        "text": "fan",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "9a7e91cb-f05d-4ac5-9454-034c8c683b54",
+    "data": [
+      {
+        "text": "control the ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "42824051-3535-4df1-9c7e-f1ab832898f1",
+    "data": [
+      {
+        "text": "control my ",
+        "userDefined": false
+      },
+      {
+        "text": "fans",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "0f797185-a343-41db-af93-e4242a62d301",
+    "data": [
+      {
+        "text": "control my ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "860ac5ec-6d09-48f9-b7a3-edb0bdea424b",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "7e060cb8-3418-4fb6-a9bf-2dfd4347c35f",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "c040219b-4958-42e4-b563-b310ae8b9e97",
+    "data": [
+      {
+        "text": "please switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "fan",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "a8e3ad3f-8ea9-4bf0-a701-aa37c25e327f",
+    "data": [
+      {
+        "text": "can you please switch ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "fan",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "988cb0f5-2a8f-4e26-820f-0d6b77e28ab0",
+    "data": [
+      {
+        "text": "can you please switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "b104b480-5cdd-4017-ae87-70a2b59096b6",
+    "data": [
+      {
+        "text": "can you please switch ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "7679d9fa-3ab8-4a7d-b04a-838a105317c3",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "6daa9269-a3a0-453e-87b7-20a1e4f2c064",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "2a727cc7-5738-4bb0-adb0-ac7e01a91374",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "fans",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "9ab3fac6-652d-4812-ab0f-d9c504bef16e",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "fans",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "9218c19f-5ae2-43c5-9b87-5a4c68ec79a3",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "fan",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "a3b08181-0d43-46ec-9201-e74205f4217d",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "fan",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "145da1ca-fc77-40ca-8992-c31bac95e469",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085668
+  },
+  {
+    "id": "87b815cd-652c-4d9d-8a3c-376490d28106",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status",
+        "meta": "@status",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "alias": "devices",
+        "meta": "@devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

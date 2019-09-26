@@ -1,0 +1,266 @@
+[
+  {
+    "id": "ad475350-8dd4-41cc-9a37-03985f742e97",
+    "data": [
+      {
+        "text": "that\u0027s all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497089077
+  },
+  {
+    "id": "945e4675-d48d-4fcd-8fe4-23c8db5b14a1",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497089077
+  },
+  {
+    "id": "e2f113cc-7775-4e65-a03c-209c78801214",
+    "data": [
+      {
+        "text": "bye bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497085928
+  },
+  {
+    "id": "d18e3eaa-9c8d-493e-9735-39645f9bb748",
+    "data": [
+      {
+        "text": "I have to go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "216b074c-c796-40a1-99fc-e62e577a17b0",
+    "data": [
+      {
+        "text": "Let\u0027s talk later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e25e3bf-ecf9-400d-95a9-4e164b7f41a4",
+    "data": [
+      {
+        "text": "Ok, thanks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f3cb355-b52f-4d9d-b661-acac3dac1ddc",
+    "data": [
+      {
+        "text": "I\u0027m done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a58457e-f1cf-4e62-b85d-4b7930640c99",
+    "data": [
+      {
+        "text": "end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c19e0dcc-4193-47fa-9a64-8553fc9ee0fe",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d8b17324-219b-4cfe-bf9a-b805d5b87715",
+    "data": [
+      {
+        "text": "turn off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6527703-b6d5-4aef-b87a-06f70ca58278",
+    "data": [
+      {
+        "text": "terminate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a48f87e1-1da5-4be6-8fcb-76fc77d9849c",
+    "data": [
+      {
+        "text": "shut up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dc79439-0a0e-4b00-b73f-bb3831130e65",
+    "data": [
+      {
+        "text": "quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9536742-f584-46ed-90c5-3a34e7f819d6",
+    "data": [
+      {
+        "text": "kill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4261f974-caed-4a04-9860-f03e0f614c34",
+    "data": [
+      {
+        "text": "finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14ab2f31-560d-4c0a-9d98-6c9eee9601c4",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3b7b090-7f7b-4288-9f84-f6f22a8de984",
+    "data": [
+      {
+        "text": "close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e1591f6-63f8-4c29-aec5-11c5f3adfecd",
+    "data": [
+      {
+        "text": "let\u0027s stop here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a739be89-ef28-401e-868f-4f27c7fa5dcc",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f5ad3f8d-7751-4382-bd56-f2896e498267",
+    "data": [
+      {
+        "text": "it\u0027s over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3adfa72-96b7-45b2-bf51-08fd4b5189d1",
+    "data": [
+      {
+        "text": "i give up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a64474ae-166a-42b8-b025-4f7138fe2694",
+    "data": [
+      {
+        "text": "I quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

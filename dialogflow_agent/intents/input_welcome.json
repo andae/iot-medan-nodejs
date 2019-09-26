@@ -1,0 +1,46 @@
+{
+  "id": "945ef46e-d555-40aa-81d8-662c00402d8f",
+  "name": "input_welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Hey, this is Biwabit\u0027s Home automation control assistant. What do you want to control? Light or fan?",
+          "displayText": "Hey, this is Biwabit\u0027s Home automation control assistant. What do you want to control?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507740893,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    },
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
